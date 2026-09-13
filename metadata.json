@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Messenger",
+  "description": "Next-generation real-time messaging, group chats, and community channels with end-to-end encryption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
